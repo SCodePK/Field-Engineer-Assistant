@@ -25,15 +25,6 @@ This backend serves as the core of a Conversational AI system that allows users 
 - Flask-WTF for handling forms
 - Flask-Session for managing user sessions
 
-## Setup
-
-1. __Clone the repository:__
-
-2. __Install dependencies:__
-
-3. __Set up the MySQL database:__
-
-4. __Run the Flask app:__
 
 ## Usage
 1. Access the application at `http://127.0.0.1:5000/` in your web browser.
