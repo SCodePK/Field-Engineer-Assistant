@@ -1,10 +1,8 @@
-# KnowHive-Backend
+# Backend
 This repository contains the backend code for KnowHive assistant built with Flask, Transformers, and SQLAlchemy.
 
 __Check out our website__ [Click here](https://knowhive.centralindia.cloudapp.azure.com/)
 
-**The Google drive link is attached which has codes, demo videos of our solution and the powerpoint slides of our solution.
-[Click here](https://drive.google.com/drive/folders/1GxjrqQ1Prn4Bpj80lpFwFWH7ImKYbs6w?usp=sharing)
 
 ## Table of Contents
 
@@ -32,16 +30,12 @@ This backend serves as the core of a Conversational AI system that allows users 
 ## Setup
 
 1. __Clone the repository:__
-`git clone https://github.com/SRDJ7/KnowHive-Backend`
 
 2. __Install dependencies:__
-`pip install -r requirements.txt`
 
 3. __Set up the MySQL database:__
-Create a MySQL database named `conversation_history`
 
 4. __Run the Flask app:__
-`python application.py`
 
 ## Usage
 1. Access the application at `http://127.0.0.1:5000/` in your web browser.
