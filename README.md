@@ -8,6 +8,16 @@ A Field Engineer Assistant application built using the GPT-2 model to provide au
 - **User-Friendly Interface**: React JS front-end for an intuitive and responsive user experience.
 - **Secure Communication**: Secure connections and encrypted password protection for data safety.
 
+## Setup
+
+1. __Clone the repository:__
+
+2. __Install dependencies:__
+
+3. __Set up the MySQL database:__
+
+4. __Run the Flask app:__
+
 ## Tech Stack
 
 - **Backend**: GPT-2 Model
