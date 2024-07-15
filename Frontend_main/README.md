@@ -1,10 +1,5 @@
-# KnowHive-Frontend
-Welcome to the KnowHive repository! This React-based frontend application allows field engineers seeking quick access to accurate and up-to-date knowledge for resolving incidents efficiently and effectively. This web application has been specifically designed to empower field engineers with an intelligent chatbot interface, providing instant assistance and valuable insights to tackle diverse challenges encountered in the field.
-
-__Check out our website__ [Click here](https://knowhive.centralindia.cloudapp.azure.com/)
-
-**The Google drive link is attached which has codes, demo videos of our solution and the powerpoint slides of our solution.
-[Click here](https://drive.google.com/drive/folders/1GxjrqQ1Prn4Bpj80lpFwFWH7ImKYbs6w?usp=sharing)
+# Frontend
+This React-based frontend application allows field engineers seeking quick access to accurate and up-to-date knowledge for resolving incidents efficiently and effectively. This web application has been specifically designed to empower field engineers with an intelligent chatbot interface, providing instant assistance and valuable insights to tackle diverse challenges encountered in the field.
 
 ## Key Features ##
 *  __Real-time Chat:__ Engage in instantaneous conversations with the intelligent KnowHive assistant.
@@ -19,19 +14,6 @@ __Check out our website__ [Click here](https://knowhive.centralindia.cloudapp.az
 *  __Web Server:__ Apache2 (SSL termination via Let's Encrypt).
 *  __SSL Certificate:__ Let's Encrypt.
 
-## Getting Started ##
-To run the KnowHive assistant Application locally, follow these steps:
-1. Clone the repository:
-`git clone`
-
-2. Navigate to the project directory:
-`cd KnowHive-Frontend`
-
-3. Install dependencies:
-`npm install`
-
-4. Start the development server:
-`npm start`
 
 ### Configuration ###
 Make sure to configure the backend server URL in the axios requests within the code. Update the URL accordingly in the following pages:
@@ -60,7 +42,7 @@ Apache2 serves as a reverse proxy for our backend (Flask API), forwarding user r
 
 Additionally, Apache2 automatically redirects HTTP requests to HTTPS, seamlessly directing users to the secure version of our application at `https://knowhive.centralindia.cloudapp.azure.com/`. This contributes to an overall safer browsing experience on our Azure VM-hosted React frontend.
 
-## Glimpse of KnowHive UI ##
+## Glimpse of UI ##
 
 <p align="center">
 <img width="960" alt="Start Page" src="https://github.com/SRDJ7/KnowHive-Frontend/assets/67571677/ecfc65ab-dcb0-469e-be02-995900ebdc83">
