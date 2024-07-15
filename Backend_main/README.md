@@ -1,8 +1,6 @@
 # Backend
 This repository contains the backend code for KnowHive assistant built with Flask, Transformers, and SQLAlchemy.
 
-__Check out our website__ [Click here](https://knowhive.centralindia.cloudapp.azure.com/)
-
 
 ## Table of Contents
 
